@@ -1,1 +1,1 @@
-Projeto em construção durante a formação em Javascript da DIO
+Projeto em construção durante a formação em Javascript da DIO.
